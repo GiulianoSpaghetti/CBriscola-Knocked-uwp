@@ -4,12 +4,9 @@
 
 
 
-## CBriscolaUWP per il windows store
+## CBriscola Knocked UWP per il windows store
 
 La briscola con risposta del seme in UWP, si basa sulla libereria cardframework.uwp, che non trovate su gnuget perché è stata scritta da gatto geordi.
-
-## Come ottenere
-[![microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://www.microsoft.com/store/apps/9NX1JKTQK12C)
 
 ## Bug noti
 
