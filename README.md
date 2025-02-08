@@ -6,7 +6,9 @@
 
 ## CBriscola Knocked UWP per il windows store
 
-La briscola con risposta del seme in UWP, si basa sulla libereria cardframework.uwp, che non trovate su gnuget perché è stata scritta da gatto geordi.
+La briscola "hard core" con risposta del seme in UWP, si basa sulla libereria cardframework.uwp, che non trovate su nuget perché l'uwp non può essere messo su nuget.
+
+Quello che avete davanti non è il gioco della briscola come si intende oggi, perché oggi tutti i simulatori di briscola dicono "hai preso l'asso, bravo" e finisce lì. Quello che avete davanti è un simulatore equo e professionale, con punteggio aggiornato in tempo reale, in modo da poter decidere se "rischiare" o meno coscientemente, scritto in avalonia col dialetto material. Sembra strano a dirsi, ma è Hard Core, perché si ha in ogni istante il potere di cambiare in ogni istante l'andamento della parita coscientemente con le proprie scelte.
 
 ## Bug noti
 
